@@ -1,5 +1,5 @@
 <!-- ABOUT THE PROJECT -->
-# Scripts para cambiar el tamaño de imágenes con Python
+# Scripts para cambiar el tamaño de tus imágenes
 
 [![Product Name Screen Shot][product-screenshot]](https://codewithgoz/tutorials/1)
 
@@ -31,9 +31,9 @@ Puedes utilizar éstos scripts para tu uso personal o comercial.
 
 
 <!-- CONTACT -->
-## Contact
+## Contacto
 
-Gustavo Gómez Macías (Goz) - [personal website](https://gustavogm.me) - [courses website](https://gozdeveloper.com) - goz.programmer@gmail.com
+Gustavo Gómez Macías (Goz) - [personal website](https://gustavogm.me) - [courses website](https://codewithgoz.com) - goz.programmer@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
