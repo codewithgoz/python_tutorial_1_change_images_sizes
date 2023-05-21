@@ -33,7 +33,7 @@ Puedes utilizar éstos scripts para tu uso personal o comercial.
 <!-- CONTACT -->
 ## Contacto
 
-Gustavo Gómez Macías (Goz) - [personal website](https://gustavogm.me) - [courses website](https://codewithgoz.com) - goz.programmer@gmail.com
+Gustavo Gómez Macías (Goz) - [sitio personal](https://gustavogm.me) - [mis cursos](https://codewithgoz.com) - goz.programmer@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
