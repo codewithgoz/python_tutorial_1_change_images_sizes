@@ -1,5 +1,5 @@
 ##############################################################
-# GozDeveloper Youtube Channel - Python Video No.1 - Script 1
+# CODE WITH GOZ Youtube Channel - Python Video No.1 - Script 1
 ##############################################################
 # Description: Simple script for image's width resizing
 # Dependencies:
@@ -8,6 +8,7 @@
 # pip install python-resize-image
 # ----------------------------------------
 # Author: Goz
+# https://codewithgoz.com
 ##############################################################
 
 import os
