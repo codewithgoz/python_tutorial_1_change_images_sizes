@@ -1,9 +1,9 @@
 <!-- ABOUT THE PROJECT -->
 # Scripts para cambiar el tamaño de tus imágenes
 
-[![Product Name Screen Shot][product-screenshot]](https://codewithgoz/tutorials/1)
+[![Product Name Screen Shot][product-screenshot]](https://codewithgoz.com/tutorials/1)
 
-<p align="center"><a href="https://codewithgoz/tutorials/1">VER VIDEO</a></p>
+<p align="center"><a href="https://codewithgoz.com/tutorials/1">VER VIDEO</a></p>
 
 En este repositorio encontrarás 4 scripts:
 
